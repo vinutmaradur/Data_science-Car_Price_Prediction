@@ -178,7 +178,7 @@ This project is licensed under the MIT License.
 ## Check my code 👁️
 Below is the link to check my app
 
-  [Project demo](https://carpricepredict-2025.streamlit.app/) 🚀
+  [Project demo](https://carpriceprediction-2025.streamlit.app/) 🚀
 
 ---
 
