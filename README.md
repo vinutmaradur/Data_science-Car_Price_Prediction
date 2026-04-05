@@ -182,12 +182,13 @@ Below is the link to check my app
 
 ---
 
-## Happy Coding! 💻✨
+# Happy coding! 💻
 
-You can modify sections like the GitHub repository link or license if needed. Let me know if you'd like help adding anything else!
+Let me know if you’d like to customize any sections further!
 
 ---
 
 **👨‍💻 Author** </br>
 Vinut Maradur </br>
-MCA (Data Science) Graduate | Data Analyst | Data Science Enthusiast
+MCA (Data Science) Graduate | Data Analyst | Data Science Enthusiast </br>
+Car Price Prediction
